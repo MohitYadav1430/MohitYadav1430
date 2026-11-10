@@ -97,7 +97,6 @@ A personal portfolio showcasing my skills and development projects.
 <a href="https://github.com/MohitYadav1430/Portfolio">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-2F80ED?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 ---
 
 ## 📊 GitHub Analytics
