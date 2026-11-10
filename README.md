@@ -98,3 +98,12 @@ A personal website to showcase my skills and projects.
 **Thanks for visiting my profile! ⭐**
 
 </div>
+---
+
+## 🐍 My GitHub Contribution Snake
+
+<div align="center">
+
+![GitHub Snake](https://raw.githubusercontent.com/MohitYadav1430/MohitYadav1430/output/github-snake.svg)
+
+</div>
