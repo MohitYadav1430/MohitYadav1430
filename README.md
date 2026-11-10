@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./profile-banner.png" width="100%" alt="Mohit Yadav Developer Banner"/>
+<img src="./mohit-github-banner.png" width="100%" alt="Mohit Yadav Developer Banner"/>
 
 <br/>
 
@@ -104,16 +104,11 @@ A personal portfolio showcasing my skills and development projects.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MohitYadav1430&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=MohitYadav1430&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohitYadav1430&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=MohitYadav1430&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MohitYadav1430&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
-
 ---
 
 ## 🐍 GitHub Contribution Snake
@@ -130,13 +125,62 @@ A personal portfolio showcasing my skills and development projects.
 
 ---
 
-## 🏆 GitHub Achievements
+---
+
+## 🏆 GitHub Achievements & Highlights
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=MohitYadav1430&theme=tokyonight&no-frame=true&column=4" width="100%"/>
+<table>
+<tr>
+<td align="center" width="180">
+<h2>💻</h2>
+<b>Open Source</b>
+<br/>
+Exploring Contributions
+</td>
+
+<td align="center" width="180">
+<h2>🚀</h2>
+<b>Project Builder</b>
+<br/>
+Building Real-World Projects
+</td>
+
+<td align="center" width="180">
+<h2>🤖</h2>
+<b>AI Explorer</b>
+<br/>
+Learning RAG & AI
+</td>
+</tr>
+
+<tr>
+<td align="center" width="180">
+<h2>🌐</h2>
+<b>Full Stack</b>
+<br/>
+MERN Development
+</td>
+
+<td align="center" width="180">
+<h2>📚</h2>
+<b>Continuous Learner</b>
+<br/>
+Learning New Technologies
+</td>
+
+<td align="center" width="180">
+<h2>🎯</h2>
+<b>Problem Solver</b>
+<br/>
+Improving Coding Skills
+</td>
+</tr>
+</table>
 
 </div>
+---
 
 ---
 
@@ -144,8 +188,16 @@ A personal portfolio showcasing my skills and development projects.
 
 <div align="center">
 
+<a href="https://www.linkedin.com/in/mohit-yadav-b28170285/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:mohityadav21811@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 <a href="https://github.com/MohitYadav1430">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </div>
@@ -154,6 +206,11 @@ A personal portfolio showcasing my skills and development projects.
 
 <div align="center">
 
+### 💜 Code. Learn. Build. Repeat.
+
+Thanks for visiting my GitHub Profile! 🚀
+
+</div>
 ### 💜 Code. Learn. Build. Repeat.
 
 **Thanks for visiting my GitHub Profile!**
