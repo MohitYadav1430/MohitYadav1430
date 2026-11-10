@@ -107,3 +107,12 @@ A personal website to showcase my skills and projects.
 ![GitHub Snake](https://raw.githubusercontent.com/MohitYadav1430/MohitYadav1430/output/github-snake.svg)
 
 </div>
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=MohitYadav1430&theme=algolia&no-frame=true&margin-w=10" width="100%" />
+
+</div>
