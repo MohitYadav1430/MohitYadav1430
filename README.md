@@ -90,7 +90,9 @@ An intelligent, evidence-aware Hybrid RAG system designed for PDF-based question
 - Persistent Cloud Storage using Supabase.
 - General AI question answering.
 
-\<p>   \<a href="[https://github.com/MohitYadav1430/EduRAG-X](https://github.com/MohitYadav1430/EduRAG-X)">     \<img src="[https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge\&logo=github)" alt="View EduRAG-X">   \</a>   \<a href="[https://edurag-x-unaytubqrmlkxpwijnjdte.streamlit.app/](https://edurag-x-unaytubqrmlkxpwijnjdte.streamlit.app/)">     \<img src="[https://img.shields.io/badge/LIVE_DEMO-success?style=for-the-badge](https://img.shields.io/badge/LIVE_DEMO-success?style=for-the-badge)" alt="Live Demo">   \</a> \</p>
+[![View Project](https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github)](https://github.com/MohitYadav1430/EduRAG-X)
+
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-success?style=for-the-badge)](https://edurag-x-unaytubqrmlkxpwijnjdte.streamlit.app/)
 
 ---
 
