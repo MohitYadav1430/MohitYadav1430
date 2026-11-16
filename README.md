@@ -75,16 +75,22 @@ A Full Stack MERN-based online examination platform.
 
 ---
 
-### 02. RAG Based AI Teaching Assistant
+## 02. EduRAG-X – AI Teaching Assistant
 
-An AI-powered teaching assistant designed to improve the learning experience using Retrieval Augmented Generation.
+An intelligent, evidence-aware Hybrid RAG system designed for PDF-based question answering, research assistance, and adaptive learning.
 
-**Technologies:** Python, RAG, AI and LLMs.
+**Technologies:** Python, Streamlit, Google Gemini, FAISS, BM25, Supabase, PyMuPDF.
 
 **Project Highlights:**
-- AI-powered learning assistance
-- Retrieval Augmented Generation
-- Intelligent question answering
+
+- Upload and query PDF documents.
+- Hybrid Search using Semantic and BM25 Retrieval.
+- Evidence-aware AI-generated answers.
+- Source and page-based citations.
+- Persistent Cloud Storage using Supabase.
+- General AI question answering.
+
+\<p>   \<a href="[https://github.com/MohitYadav1430/EduRAG-X](https://github.com/MohitYadav1430/EduRAG-X)">     \<img src="[https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge\&logo=github)" alt="View EduRAG-X">   \</a>   \<a href="[https://edurag-x-unaytubqrmlkxpwijnjdte.streamlit.app/](https://edurag-x-unaytubqrmlkxpwijnjdte.streamlit.app/)">     \<img src="[https://img.shields.io/badge/LIVE_DEMO-success?style=for-the-badge](https://img.shields.io/badge/LIVE_DEMO-success?style=for-the-badge)" alt="Live Demo">   \</a> \</p>
 
 ---
 
