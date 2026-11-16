@@ -69,9 +69,9 @@ A Full Stack MERN-based online examination platform.
 - Result Management
 - Authentication using JWT
 
-<a href="https://github.com/MohitYadav1430/online-examination-system">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-2F80ED?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+[![VIEW PROJECT](https://img.shields.io/badge/VIEW_PROJECT-2F80ED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohitYadav1430/online-examination-system)
+
+[![LIVE DEMO](https://img.shields.io/badge/LIVE_DEMO-success?style=for-the-badge)](https://online-examination-frontend-c7zx.onrender.com)
 
 ---
 
